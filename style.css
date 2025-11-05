@@ -1,0 +1,38 @@
+body {
+  color: pink;
+  background-color: grey;
+}
+h1,h2{ 
+         color: violet;
+         background-color:SlateBlue;
+}
+
+table,td,th {
+        border: 2px solid blue;
+        
+}
+.text-center {
+        text-align: center;
+}
+
+.border {
+        border :20px;
+}
+
+#rounded-img {
+        border-radius: 90px:
+}
+
+
+imp:hover {
+  opacity: 0,5;
+}
+
+ol {
+       list-style-type: lower-roman;
+       list-style-position: inside;
+}
+
+p {
+      fonst-size: 30px;
+}
